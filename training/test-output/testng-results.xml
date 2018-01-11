@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="121" started-at="2018-01-07T06:45:18Z" finished-at="2018-01-07T06:45:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="121" started-at="2018-01-07T06:45:18Z" finished-at="2018-01-07T06:45:18Z">
+      <class name="checks.AppTest">
+        <test-method status="PASS" signature="tc4()[pri:0, instance:checks.AppTest@343f4d3d]" name="tc4" duration-ms="4" started-at="2018-01-07T12:15:18Z" finished-at="2018-01-07T12:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- checks.AppTest -->
+      <class name="checks.AppTest2">
+        <test-method status="PASS" signature="tc4()[pri:0, instance:checks.AppTest2@39c0f4a]" name="tc4" duration-ms="35" started-at="2018-01-07T12:15:18Z" finished-at="2018-01-07T12:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- checks.AppTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

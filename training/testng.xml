@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name=" Test Suite" parallel="tests">
+  <test name=" Test Runs1">
+    <classes>
+      <class name="runner.TestRunner"/>
+    </classes>
+  </test>
+  
+  <test name=" Test Runs2">
+    <classes>
+       <class name="checks.App_Test2"/>
+    </classes>
+  </test>
+  
+</suite>

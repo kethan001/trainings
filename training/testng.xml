@@ -10,7 +10,7 @@
   
   <test name=" Test Runs2">
     <classes>
-       <class name="checks.App_Test2"/>
+       <class name="checking.App_Test2"/>
     </classes>
   </test>
   

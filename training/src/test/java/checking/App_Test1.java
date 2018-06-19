@@ -23,7 +23,7 @@ public class App_Test1 {
 		  }
 	  @Test(enabled = true, priority = 3)
 		 public void tcs4() throws Exception {	   
-			  System.out.println("Hello : fourth4 ");
+			  System.out.println("Hello : fourth4");
 			  	  
 		  }  
   }
